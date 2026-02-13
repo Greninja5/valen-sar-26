@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "To infinity and beyond! 🚀💝",  // Shows when they go past 5000%
+        extreme: "To the moon and back! 🚀💝",  // Shows when they go past 5000%
         high: "WOOOOW You like me that much?? 🥰🚀💝",              // Shows when they go past 1000%
         normal: "Khuda given you a dil bro, don't be stingy 🥰"                           // Shows when they go past 100%
     },
